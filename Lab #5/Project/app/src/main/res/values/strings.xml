@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PomodoroApp</string>
+    <string name="text">POMODORO APP</string>
+    <string name="text2">Work hard</string>
+    <string name="text3">Rest hard</string>
+</resources>
